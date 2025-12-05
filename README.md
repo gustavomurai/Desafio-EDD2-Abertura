@@ -1,6 +1,4 @@
 Projeto Abertura Física de Dispositivo (TTLock)
-**Disciplina:** Estrutura de Dados II  
-**Instituição:** (coloque o nome da faculdade)  
 **Aluno:** Gustavo Serqueira Mouraígo Serqueira Mouraí  
 
 ---
